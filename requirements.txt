@@ -1,0 +1,8 @@
+# Core dependencies
+dask>=2023.3.0
+pandas>=1.5.0
+ipykernel>=6.0.0
+distributed>=2023.3.0
+
+# Python version requirement
+# python>=3.10.12
