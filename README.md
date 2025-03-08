@@ -37,7 +37,7 @@ Open Jupyter Lab:
 jupyter lab
 ```
 
-Navigate to and open the `weather_data_analysis.ipynb` notebook.
+Navigate to and open the `dask-weather-analysis.ipynb` notebook.
 
 ## Key Components
 
